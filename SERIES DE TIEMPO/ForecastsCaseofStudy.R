@@ -17,7 +17,7 @@ library(stringr)
 #####################################################################
 #PASO 2. SE DEFINEN LAS RUTAS DE CATALOGOS Y RESULTADOS.
 
-ruta.1 <- "C:/Users/riemm/OneDrive/Escritorio/Business Intelligence/"
+ruta.1 <- "C:/Users/juanj/Workspace/business_Intelligence/SERIES DE TIEMPO"
 
 ################################################################################
 ################################################################################
@@ -30,7 +30,7 @@ ruta.1 <- "C:/Users/riemm/OneDrive/Escritorio/Business Intelligence/"
 #####################################################################
 #PASO 3. LEE INSUMOS PRONOSTICO IPC
 
-Competitor1 <- read.csv("C:/Users/riemm/OneDrive/Escritorio/Business Intelligence/Competidor1.csv",header=TRUE, sep=",")
+Competitor1 <- read.csv("C:/Users/juanj/Workspace/business_Intelligence/SERIES DE TIEMPO/Competidor1.csv",header=TRUE, sep=",")
 
 ts.Competidor1 <- ts(Competitor1$Product1, frequency = 52, start = c(2019,1))
 plot(ts.Competidor1)
