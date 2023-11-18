@@ -1,0 +1,40 @@
+NOMBRE DE UNIDAD ECONOMICA,NUE
+RAZON SOCIAL,RS
+Código de la clase de actividad SCIAN,SCIAN
+Nombre de clase de la actividad,NCA
+NUMERO DE PERSONAL OCUPADO,NPO
+TIPO DE VIALIDAD,TV
+NOMBRE DE VIALIDAD,NV
+Entre vialidad 1,EV1
+Nombre de entre vialidad 1,NEV1
+Entre vialidad 2,EV2
+Nombre de entre vialidad 2,NEV2
+Entre vialidad 3,EV3
+Nombre de entre vialidad 3,NEV3
+Número exterior o kilómetro,NEK
+Letra exterior,LE
+EDIFICIO,E
+Edificio Piso,EP
+Número interior,NI
+Letra interior,LI
+Tipo de asentamiento humano,TAH
+Nombre de asentamiento humano,NAH
+Tipo centro comercial,TCC
+Corredor industrial centro comercial o mercado público,CiCoMp
+Número de local,NL
+Código Postal,CP
+Clave entidad,CE
+Entidad federativa,EF
+Clave municipio,CM
+Municipio,M
+Clave localidad,CL
+Localidad,L
+Área geoestadística básica,AGB
+Manzana,Mz
+Número de teléfono,NT
+Correo electrónico,CE
+Sitio en Internet,PW
+Tipo de establecimiento,TE
+Latitud,LAT
+Longitud,LON
+Fecha de incorporación al DENUE,FiDENUE
