@@ -2,7 +2,7 @@ NOMBRE DE UNIDAD ECONOMICA,NUE
 RAZON SOCIAL,RS
 Código de la clase de actividad SCIAN,SCIAN
 Nombre de clase de la actividad,NCA
-NUMERO DE PERSONAL OCUPADO,NPO
+ESTRATO DE PERSONAL OCUPADO,EPO
 TIPO DE VIALIDAD,TV
 NOMBRE DE VIALIDAD,NV
 Entre vialidad 1,EV1
@@ -20,7 +20,7 @@ Letra interior,LI
 Tipo de asentamiento humano,TAH
 Nombre de asentamiento humano,NAH
 Tipo centro comercial,TCC
-Corredor industrial centro comercial o mercado público,CiCoMp
+Corredor industrial centro comercial o mercado público,NCC
 Número de local,NL
 Código Postal,CP
 Clave entidad,CE
